@@ -1,5 +1,6 @@
 # Layer-Percolation-Simulation
 This repository includes code for simulating the generalized layer percolation process, as well as activated random walk simulations on the comb and interval. It is a companion to this paper: 
+https://doi.org/10.48550/arXiv.2508.14977
 
 Included are documented Jupyter notebooks. CombARWSimulation.ipynb is for sampling the stationary distribution of the driven dissapative ARW process on the interval and comb, CombHockeyStick.ipynb is for simulating the driven dissapative process with central driving on the comb, General_Layer_Percolation_Visualization.ipynb is for simulating the general layer percolation process, 3D_Comb_Percolation_Visualization is for visualizing the 3d comb percolation process and utilizes a less general way of simulating the layer percolation process tailored to the 3d comb percolation law, and Bounds_on_Comb_Density.ipynb is for simulating the bounds given in the associated comb percolation paper. 
 
